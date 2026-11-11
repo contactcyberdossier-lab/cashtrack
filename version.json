@@ -1,0 +1,9 @@
+{
+  "latestVersionCode": 15,
+  "latestVersionName": "2.2.10",
+  "releaseNotes": "• Play Store & Indus Appstore Compliance: Added prominent pre-permission SMS disclosure & optional Manual/Gmail-only mode.\n• Reduced Sensitive Permission Footprint: Removed unused Notification Listener service from AndroidManifest.xml.\n• Zero Data Loss Across Updates: Fixed SQLCipher native loading, WAL checkpointing, schema version preservation, and automated orphaned DB recovery.\n• Bill Reminders & Daily Spend Alerts: Runtime Android 13+ notification permissions and offline daytime reminder worker.",
+  "updateUrl": "https://contactcyberdossier-lab.github.io/cashtrack/",
+  "indusStoreUrl": "https://www.indusappstore.com/apps/com.pmani.cashtrack",
+  "merchantWebhookUrl": "https://script.google.com/macros/s/AKfycbxxkNPBmab--jWZ-UE_MxI-0VystNn2rFMa7oyRTWkcEYmALNA-HhagVaTlS9pDF8x4/exec",
+  "forceUpdate": false
+}
